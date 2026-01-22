@@ -33,20 +33,10 @@
   <img src="https://img.shields.io/badge/Shell-%23121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="阿里云"/>
-  <img src="https://img.shields.io/badge/MySQL-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
 <br/>
-
-<!-- GitHub 统计卡片（动态更新） -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaxh88&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaxh88&layout=compact&theme=dracula&hide_border=true" alt="Top Langs"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaxh88&theme=dracula&hide_border=true" alt="Streak Stats"/>
-</div>
 
 <!-- 项目展示（可以加更多） -->
 <h3 align="center">🚀 核心项目</h3>
