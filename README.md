@@ -5,7 +5,7 @@
   <br/>
   
   <!-- 头像 + 一句话简介 -->
-  <img src="https://avatars.githubusercontent.com/u/manaxh88" width="120" height="120" style="border-radius:50%; border: 4px solid #00FF9D;" />
+  <img src="https://avatars.githubusercontent.com/u/50125505?v=4" width="120" height="120" style="border-radius:50%; border: 4px solid #00FF9D;" />
   
   <h3>23岁 | Linux · Docker · K8s · Ansible · 云运维</h3>
   <p>热爱自动化、容器化与可观测性，目标成为高级云原生运维工程师/云架构师</p>
@@ -16,7 +16,7 @@
 
 <!-- 联系方式卡片 -->
 <div align="center">
-  <a href="mailto:694003946@qq.com"><img src="https://img.shields.io/badge/邮箱-694003946@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&to=694003946@qq.com"><img src="https://img.shields.io/badge/邮箱-694003946@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
