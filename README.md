@@ -1,6 +1,6 @@
 <!-- 居中大标题 + 欢迎语 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=贾先正;初级运维工程师+DevOps+爱好者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=初级运维工程师+DevOps+爱好者" alt="Typing SVG" />
   
   <br/>
   
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Shell-%23121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="阿里云"/>
-  <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MySQL-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="MySQL"/>
 </div>
 
 <br/>
